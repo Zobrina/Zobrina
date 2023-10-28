@@ -1,0 +1,9 @@
+print("Hello, Github. Its a pleasure being here")
+name = input("Add your name")
+print(name)
+age = int(input("add your age")
+print(age)
+if = age >= 18 then 
+print("able to start")
+
+
